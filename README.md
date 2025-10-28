@@ -1,112 +1,43 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Naynika Wason: Telling Stories with Data Portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
-
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+This repository hosts my work and projects for the Telling Stories with Data course at Carnegie Mellon University.
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
-### Changing text
+## About me
 
-You can change text, like this: 
+Hey there. I'm Naynika, a graduate student at CMU in the Master of Information Systems Management (MISM) program. My background is in Computer Science, but my real passion is for building products that solve tangible problems.
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
+Before coming to CMU, I spent two years at Adobe as an analytics consultant. My job was to help major clients—like Amazon, Samsung, and Asics—dig through their data to understand their users. I built a lot of reporting dashboards and saw firsthand how powerful a good visualization can be. I also realized how often that power is wasted with confusing charts or metrics that don't actually matter. Alongside my work, I've co-founded a couple of startups (Pitara and Peekly), which has solidified my belief that clear, actionable data is the foundation of any good product.
 
-### Creating tables
+## What I hope to learn
 
-You can build tables like this: 
+My goal after graduation is to go back into product management or continue building my own ventures. In both roles, the job is often the same: you have to convince people to act. You're constantly translating complex information—user telemetry, A/B test results, market analysis—for engineers, designers, and leadership.
 
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+I'm in this class to learn how to bridge the gap between raw data and a compelling call to action. I want to move beyond just *reporting* metrics and learn to *tell stories* with them. I'm hoping to get better at creating visualizations that are not only accurate and clear, but also persuasive and human-centric.
 
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
+## Portfolio
 
-You can use different headings, like this: 
+This is where I'll be documenting my work for the course.
 
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
+### Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+*A brief description of the assignment will go here.*
 
-### Adding images
+### Assignment 2: [Critique by Design](critique-by-design)
+*A brief description of the assignment will go here.*
 
-Here's an example of how to add an image to my portfolio.  
+### Final Project
+*A high-level description of my final project will go here.*
+* [Part I: Proposal](final-project-part-one)
+* [Part II: Initial Draft](final-project-part-two)
+* [Part III: Final Delivery](final-project-part-three)
 
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+---
 
 ## References
-_List any references you used here._
+*List any references you use here.*
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+*If you used AI to help you complete an assignment (within the parameters of the instruction and course guidelines), detail your use of AI for that assignment here.*
