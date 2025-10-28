@@ -10,7 +10,9 @@ This repository hosts my work and projects for the Telling Stories with Data cou
 
 Hey there. I'm Naynika, a graduate student at CMU in the Master of Information Systems Management (MISM) program. My background is in Computer Science, but my real passion is for building products that solve tangible problems.
 
-Before coming to CMU, I spent two years at Adobe as an analytics consultant. My job was to help major clients—like Amazon, Samsung, and Asics—dig through their data to understand their users. I built a lot of reporting dashboards and saw firsthand how powerful a good visualization can be. I also realized how often that power is wasted with confusing charts or metrics that don't actually matter. Alongside my work, I've co-founded a couple of startups (Pitara and Peekly), which has solidified my belief that clear, actionable data is the foundation of any good product.
+Before coming to CMU, I spent two years at Adobe as an analytics consultant. My job was to help major clients—like Amazon, BCG, Samsung, and Asics—dig through their data to understand their users. I built a lot of reporting dashboards and saw firsthand how powerful a good visualization can be. I also realized how often that power is wasted with confusing charts or metrics that don't actually matter. Alongside my work, I've co-founded a couple of startups (Pitara and Peekly), which has solidified my belief that clear, actionable data is the foundation of any good product.
+
+![A picture of me](my-photo.jpg)
 
 ## What I hope to learn
 
