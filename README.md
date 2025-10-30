@@ -24,6 +24,8 @@ I'm in this class to learn how to bridge the gap between raw data and a compelli
 
 This is where I'll be documenting my work for the course.
 
+[Visualization #1](viz1.html)
+
 ### Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 *A brief description of the assignment will go here.*
 
