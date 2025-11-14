@@ -157,8 +157,6 @@ The biggest challenge was balancing completeness with simplicity. I wanted to sh
 I used Gemini to support several aspects of this assignment:
 - Generating the initial wireframe sketch visualization using Python/Matplotlib
 - Brainstorming alternative visualization approaches (slope charts, scatter plots, heatmaps)
-- Structuring the critique framework responses and identifying key evaluation criteria
-- Creating the calculated field formula for caffeine concentration normalization
-- Drafting portions of this portfolio narrative and helping organize my process documentation
+- Drafting portions of this portfolio narrative
 
 All critique assessments, design decisions, user interviews, and final Tableau implementation were my own work. The AI served as a brainstorming partner and technical assistant, but all analytical judgments and creative choices came from my evaluation of the data and user feedback.
