@@ -47,4 +47,4 @@ I will embed these visualizations into **Shorthand** to create a scrolling, inte
 
 ## AI acknowledgements
 
-*No AI use specified for this assignment.*
+The images displayed in the "Initial Sketches" section of this report were generated using Gemini.
