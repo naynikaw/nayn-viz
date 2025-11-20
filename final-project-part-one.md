@@ -18,7 +18,7 @@ Below are the initial concept sketches for the visualization of the "Hype Rocket
 
 ![Linkedin Job Posting trends](linkedin job trend.png)
 ![AI Pivot](ai pivot.png)
-![Education Ecosystem(education ecosystem.png)
+![Education Ecosystem](education ecosystem.png)
 
 # The data
 
