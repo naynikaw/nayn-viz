@@ -159,4 +159,4 @@ pudding.cool (stylistic inspiration)
 
 ## AI acknowledgements
 
-I used AI to help organize the wireframes, shape the research protocol, and summarize interview findings. I wrote the story structure, interpretation, and final decisions myself.
+I used Anti-Gravity to code the storyboard that I wrote and ChatGPT to interpret the data, collect data sources, and consolidate the data with the story structure. I wrote the story outline, interpretation, and final decisions myself.
