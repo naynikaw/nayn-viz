@@ -53,6 +53,7 @@ Aakash Gupta – Product Growth Newsletter
 Reforge  
 Microsoft AI PM Courses  
 Coursera and edX Product Management Specializations  
+
 ---
 
 ## AI acknowledgements
